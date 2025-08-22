@@ -2,8 +2,6 @@
 A collection of data science and machine learning projects showcasing skills in Python, statistics, visualization, and modeling.
 # Data Science Portfolio
 
-Beginner-friendly data science projects in Python. Click a badge to run each notebook in Google Colab (no installation).
-
 ## Projects
 
 1) Iris EDA & Visualization  
@@ -12,6 +10,11 @@ Beginner-friendly data science projects in Python. Click a badge to run each not
 2) Regression — Diabetes (RidgeCV)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zh5rakib/data-science-portfolio/blob/main/02-diabetes-regression.ipynb)
 
+3) Classification — Breast Cancer (Logistic Regression)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zh5rakib/data-science-portfolio/blob/main/projects/03-breast-cancer-classification.ipynb)
+
+4) Unsupervised — KMeans on Iris  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zh5rakib/data-science-portfolio/blob/main/projects/04-iris-clustering.ipynb)
 5) NLP — 20 Newsgroups Text Classification  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zh5rakib/data-science-portfolio/blob/main/05-text-classification-20newsgroups.ipynb)
 
